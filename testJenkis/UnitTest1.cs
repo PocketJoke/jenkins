@@ -14,7 +14,7 @@ namespace testJenkis
 
             int result = calc.addition(1, 2);
 
-            Assert.AreEqual(2, result);
+            Assert.AreEqual(3, result);
         }
     }
 }
