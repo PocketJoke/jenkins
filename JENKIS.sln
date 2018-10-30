@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majordome", "ConsoleApp1\Majordome.csproj", "{5D773FF9-C647-4A51-A8D8-945E76F639E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testJenkis", "testJenkis\testJenkis.csproj", "{206B82B7-DD4E-4DB2-B6CB-7968C361B96B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5D773FF9-C647-4A51-A8D8-945E76F639E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D773FF9-C647-4A51-A8D8-945E76F639E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D773FF9-C647-4A51-A8D8-945E76F639E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206B82B7-DD4E-4DB2-B6CB-7968C361B96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206B82B7-DD4E-4DB2-B6CB-7968C361B96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206B82B7-DD4E-4DB2-B6CB-7968C361B96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206B82B7-DD4E-4DB2-B6CB-7968C361B96B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
