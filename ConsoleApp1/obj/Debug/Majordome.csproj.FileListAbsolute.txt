@@ -1,0 +1,7 @@
+C:\Users\JordanCHAVES\Desktop\JENKIS\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\JordanCHAVES\Desktop\JENKIS\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\JordanCHAVES\Desktop\JENKIS\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\JordanCHAVES\Desktop\JENKIS\ConsoleApp1\obj\Debug\Majordome.csprojAssemblyReference.cache
+C:\Users\JordanCHAVES\Desktop\JENKIS\ConsoleApp1\obj\Debug\Majordome.csproj.CoreCompileInputs.cache
+C:\Users\JordanCHAVES\Desktop\JENKIS\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\JordanCHAVES\Desktop\JENKIS\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
